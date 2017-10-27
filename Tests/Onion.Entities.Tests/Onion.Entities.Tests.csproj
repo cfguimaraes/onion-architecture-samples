@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Onion.Entities\Onion.Entities.csproj" />
+    <ProjectReference Include="..\..\Onion.Constants\Onion.Constants.csproj" />
   </ItemGroup>
 
 </Project>

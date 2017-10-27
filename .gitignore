@@ -13,7 +13,9 @@ Clients/Mvc/bin/*
 Clients/Mvc/obj/*
 *.dll
 *.pdb
-
 *.cache
-
 *.props
+Onion\.Constants/bin/
+Onion\.Constants/obj/
+Tests/Onion\.Entities\.Tests/bin/
+Tests/Onion\.Entities\.Tests/obj/

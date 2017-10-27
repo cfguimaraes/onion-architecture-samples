@@ -15,13 +15,15 @@ namespace Onion.Entities.Tests
             var identificador = "A";
             var descricao = "Molho de tomate, 100gr";
             var preco = 1.8M;
+            var promocaoId = Guid.NewGuid();
 
             // Act
             var produto = new Produto(
                 id,
                 identificador,
                 descricao,
-                preco
+                preco,
+                promocaoId
             );
 
             // Assert
@@ -29,6 +31,7 @@ namespace Onion.Entities.Tests
             Assert.AreEqual(identificador, produto.Identificador);
             Assert.AreEqual(descricao, produto.Nome);
             Assert.AreEqual(preco, produto.Preco);
+            Assert.AreEqual(promocaoId, produto.PromocaoId);
         }
     }
 }
