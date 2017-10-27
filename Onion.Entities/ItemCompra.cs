@@ -23,16 +23,13 @@ namespace Onion.Entities
         private Promocao FactoryPromocao(Guid? PromocaoID)
         {
             if (!PromocaoID.HasValue)
-            {
                 return new PromocaoNaoAplicavel();
-            }
 
             if (PromocaoID == this.PromocaoConstant._3Por10)
                 return new _3Por10();
 
             if (PromocaoID == this.PromocaoConstant.Pague1Leve2)
                 return new Pague1Leve2();
-
 
             throw new ArgumentException("Não foi possível identificar uma promoção para o item");
         }
@@ -41,15 +38,13 @@ namespace Onion.Entities
         // Inner Class privada para não permitir instâncias fora do domínio desse objeto
         private class PromocaoNaoAplicavel : Promocao
         {
-            public PromocaoNaoAplicavel() : base(Guid.Empty)
+            public PromocaoNaoAplicavel() 
             {
             }
 
-            // Como não há promoção a ser aplicada o valor calculado é o produto da quantidade pelo preço do próprio produto
-            public override decimal Calcular(Produto produto, int quantidade)
-            {
-                return produto.Preco * quantidade;
-            }
+            // Como não há promoção a ser aplicada o valor calculado é 
+            // o produto da quantidade pelo preço do próprio produto
+            public override decimal Calcular(Produto produto, int quantidade) => produto.Preco * quantidade;
         }
     }
 

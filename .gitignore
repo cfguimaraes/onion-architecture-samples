@@ -19,3 +19,6 @@ Onion\.Constants/bin/
 Onion\.Constants/obj/
 Tests/Onion\.Entities\.Tests/bin/
 Tests/Onion\.Entities\.Tests/obj/
+Clients/Mvc/bin/
+Clients/Mvc/obj/
+Onion\.UseCases/bin/

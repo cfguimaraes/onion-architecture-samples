@@ -4,12 +4,12 @@ namespace Onion.Entities.Contracts
 {
     public abstract class Promocao
     {
-        public Promocao(Guid promocaoId)
+        public Promocao()
         {
-            PromocaoId = promocaoId;
+            
         }
 
-        public Guid PromocaoId { get; }
+        public Guid PromocaoId { get;protected set; }
         public abstract decimal Calcular(Produto produto, int quantidade);
     }
 }
