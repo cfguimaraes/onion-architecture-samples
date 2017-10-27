@@ -1,0 +1,14 @@
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/bin/Debug/netstandard2.0/Onion.Entities.deps.json
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/bin/Debug/netstandard2.0/Onion.Entities.dll
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/bin/Debug/netstandard2.0/Onion.Entities.pdb
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/bin/Debug/netstandard2.0/Onion.Repositories.dll
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/bin/Debug/netstandard2.0/Onion.Services.dll
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/bin/Debug/netstandard2.0/Onion.Services.pdb
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/bin/Debug/netstandard2.0/Onion.Repositories.pdb
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/obj/Debug/netstandard2.0/Onion.Entities.csproj.CoreCompileInputs.cache
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/obj/Debug/netstandard2.0/Onion.Entities.AssemblyInfoInputs.cache
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/obj/Debug/netstandard2.0/Onion.Entities.AssemblyInfo.cs
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/obj/Debug/netstandard2.0/Onion.Entities.dll
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/obj/Debug/netstandard2.0/Onion.Entities.pdb
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/bin/Debug/netstandard2.0/Onion.Constants.dll
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Entities/bin/Debug/netstandard2.0/Onion.Constants.pdb

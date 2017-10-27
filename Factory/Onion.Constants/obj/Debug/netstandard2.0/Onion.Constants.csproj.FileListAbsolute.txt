@@ -1,0 +1,8 @@
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Constants/bin/Debug/netstandard2.0/Onion.Constants.deps.json
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Constants/bin/Debug/netstandard2.0/Onion.Constants.dll
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Constants/bin/Debug/netstandard2.0/Onion.Constants.pdb
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Constants/obj/Debug/netstandard2.0/Onion.Constants.csproj.CoreCompileInputs.cache
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Constants/obj/Debug/netstandard2.0/Onion.Constants.AssemblyInfoInputs.cache
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Constants/obj/Debug/netstandard2.0/Onion.Constants.AssemblyInfo.cs
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Constants/obj/Debug/netstandard2.0/Onion.Constants.dll
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Constants/obj/Debug/netstandard2.0/Onion.Constants.pdb

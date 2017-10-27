@@ -1,0 +1,10 @@
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Repositories/bin/Debug/netstandard2.0/Onion.Repositories.deps.json
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Repositories/bin/Debug/netstandard2.0/Onion.Repositories.dll
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Repositories/bin/Debug/netstandard2.0/Onion.Repositories.pdb
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Repositories/bin/Debug/netstandard2.0/Onion.Services.dll
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Repositories/bin/Debug/netstandard2.0/Onion.Services.pdb
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Repositories/obj/Debug/netstandard2.0/Onion.Repositories.csproj.CoreCompileInputs.cache
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Repositories/obj/Debug/netstandard2.0/Onion.Repositories.AssemblyInfoInputs.cache
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Repositories/obj/Debug/netstandard2.0/Onion.Repositories.AssemblyInfo.cs
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Repositories/obj/Debug/netstandard2.0/Onion.Repositories.dll
+/home/cleverton/workspaces/gitHub/onion-architecture-samples/Siteware/sw-ecommerce/Onion.Repositories/obj/Debug/netstandard2.0/Onion.Repositories.pdb
