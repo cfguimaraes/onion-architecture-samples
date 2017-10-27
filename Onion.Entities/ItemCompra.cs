@@ -30,6 +30,9 @@ namespace Onion.Entities
             if (PromocaoID == this.PromocaoConstant._3Por10)
                 return new _3Por10();
 
+            if (PromocaoID == this.PromocaoConstant.Pague1Leve2)
+                return new Pague1Leve2();
+
 
             throw new ArgumentException("Não foi possível identificar uma promoção para o item");
         }
